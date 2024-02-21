@@ -1,4 +1,6 @@
 // HelloComponent.js
+import React from 'react';
+
 const HelloComponent = () => {
     return (
       <div>
