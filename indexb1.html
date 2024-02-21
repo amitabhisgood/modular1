@@ -14,7 +14,7 @@
   <div id="root"></div>
   <script type="text/babel" data-presets="react">
     // Import the HelloComponent
-    import HelloComponent from 'HelloComponent';
+    var HelloComponent = require('HelloComponent');
 
     // Render the HelloComponent in the 'root' div
     ReactDOM.render(<HelloComponent />, document.getElementById('root'));
