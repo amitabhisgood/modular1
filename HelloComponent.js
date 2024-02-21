@@ -1,6 +1,5 @@
 // HelloComponent.js
 var React = require('react'); 
-import React from 'react';
 
 const HelloComponent = () => {
   return (
@@ -10,4 +9,4 @@ const HelloComponent = () => {
   );
 };
 
-module.export = HelloComponent;
+module.exports = HelloComponent;
