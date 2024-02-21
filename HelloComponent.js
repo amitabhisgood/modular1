@@ -9,4 +9,4 @@ const HelloComponent = () => {
   );
 };
 
-export default HelloComponent;
+module.export = HelloComponent;
