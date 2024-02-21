@@ -1,4 +1,5 @@
 // HelloComponent.js
+var React = require('react'); 
 import React from 'react';
 
 const HelloComponent = () => {
