@@ -1,6 +1,4 @@
 // HelloComponent.js
-var React = require('react'); 
-
 const HelloComponent = () => {
   return (
     <div>
@@ -9,4 +7,4 @@ const HelloComponent = () => {
   );
 };
 
-module.exports = HelloComponent;
+export default HelloComponent;
